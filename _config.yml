@@ -12,12 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-# linkedin_username:  firstname-lastname-idxxxx
+weibo_username:     yuelives
+zhihu_username:     年糕夏天
+github_username:    Crysris
+twitter_username:   
+
 
 
 
@@ -60,8 +59,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-104057865-1'            # Format: UA-xxxxxx-xx
+ga_domain: chengyueww
 
 
 
