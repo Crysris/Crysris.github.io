@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello Piggy"
+title:      "你好 朱格"
 subtitle:   ""
 date:       2017-08-05 03:00:00
 author:     "Chris"
@@ -14,7 +14,8 @@ tags:
 
 > 
 
-朱格，我喜欢你，让我来爱你,希望你能看到
+朱格，我喜欢你，让我来爱你
+给我一次爱你的机会好吗
 
 
 
