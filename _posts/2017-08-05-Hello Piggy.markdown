@@ -14,7 +14,5 @@ tags:
 > 朱格，我喜欢你，让我来爱你,希望你能看到
 
 
-![](img/love 1.jpg)
-![](img/love 2.jpg)
 
 
